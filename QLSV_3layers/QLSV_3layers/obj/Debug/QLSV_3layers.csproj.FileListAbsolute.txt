@@ -1,0 +1,51 @@
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\bin\Debug\QLSV_3layers.exe.config
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\bin\Debug\QLSV_3layers.exe
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\bin\Debug\QLSV_3layers.pdb
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.Properties.Resources.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.csproj.GenerateResource.Cache
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.exe
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.pdb
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmMain.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSSV.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmSinhVien.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSGV.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmGV.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSMH_.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmMonHoc.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSDiemThi.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmWelcome.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDsLopHoc.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmLopHoc.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDangnhap.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDangkyMonhoc.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDsMHDaDky.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmKetQuaHocTap.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.csprojResolveAssemblyReference.cache
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmQuanLyLop.resources
+D:\Tutorial\C#\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmChamDiem.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmChamDiem.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDangnhap.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDangkyMonhoc.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSDiemThi.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSGV.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDsLopHoc.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSMH_.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDsMHDaDky.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSSV.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmGV.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmKetQuaHocTap.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmLopHoc.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmMain.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmMonHoc.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmQuanLyLop.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmSinhVien.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmWelcome.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.csproj.GenerateResource.cache
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\bin\Debug\QLSV_3layers.exe.config
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\bin\Debug\QLSV_3layers.exe
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\bin\Debug\QLSV_3layers.pdb
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.Properties.Resources.resources
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.csproj.CoreCompileInputs.cache
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.exe
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.pdb
+C:\Users\Mr Trung\Videos\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.csprojAssemblyReference.cache
